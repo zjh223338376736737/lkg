@@ -1,0 +1,28 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.container{
+	width: 62.5rem;
+	height: 37.5rem;
+	background-color: #ffd9e6;
+	margin: 0 auto;
+	margin-top: 3%;
+}
+.header{	
+	height: 20%;
+	background-color: #c9eef6;
+}
+.left{
+	width: 33%;
+	height: 60%;
+	background-color: #cff0ec;
+}
+.footer{	
+	height: 20%;
+	background-color: #d2eddd;
+}
+a{
+	margin-left: 200px;
+	text-decoration: none;
+}

@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+a{
+	text-decoration: none;
+	height: 100px;
+	line-height: 100px;
+	color: #6495ed;
+}
+.container{
+	width: 62.5rem;
+	height: 37.5rem;
+	background-color: #000000;
+	margin: 0 auto;
+	margin-top: 3%;
+}
+.header{	
+	height: 15%;
+	background-color: #000000;
+}
+.subheading{
+	height: 15%;
+	background-color: #ffff7f;
+}
+.left{
+	width: 33%;
+	height: 60%;
+	background-color: #aaaa7f;
+	float: left;
+}
+.right{
+	width: 33%;
+	height: 60%;
+	background-color: #ff007f;
+	float: right;
+}
+.footer{	
+	height: 15%;
+	background-color: #5500ff;
+	position: relative;/* 相对定位 */
+	top: 60%;
+}
